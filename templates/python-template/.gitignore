@@ -1,0 +1,7 @@
+# Python script gitignore
+
+# Cache Directory
+__pycache__/
+
+# Environment variables
+.env

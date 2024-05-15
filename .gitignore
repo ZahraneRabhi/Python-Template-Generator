@@ -1,0 +1,6 @@
+# Cache Directory
+__pycache__/
+
+# Package files
+pytemplate.egg-info
+build
