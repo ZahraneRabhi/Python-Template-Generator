@@ -1,6 +1,9 @@
 # Template Generator
 
 A lightweight Python package designed to generate custom project templates to suit my preferences, saving me time and effort.
+so far it can 
+- ***Generate a Python app template***
+- ***Generate a Data Analysis & Machine Learning workflow template***
 
 ## Table of Contents
 
@@ -31,10 +34,15 @@ A lightweight Python package designed to generate custom project templates to su
    ```
 
 ## Usage
-- Run the project with:
+- If you want a Python App template
 
      ```bash
-     pytemplate <your_project_name>
+     pyapp <your_project_name>
+     ```
+- If you want a Python Machine Learning Notebook template
+
+     ```bash
+     pynotebook <your_project_name>
      ```
 
 

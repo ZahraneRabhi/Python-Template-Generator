@@ -10,6 +10,7 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        pytemplate=pytemplate:create_python_template
+        pyapp=pytemplate:create_python_template 
+        pynotebook=pytemplate:create_notebook_template
     ''',
 )
