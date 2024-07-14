@@ -1,8 +1,10 @@
 # Data Analysis & Machine Learning Project
 
 This project focuses on cleaning, exploring, and modeling a dataset to extract insights and build predictive models.
-![Data Analysis](https://via.placeholder.com/350x150)
 
+<center>
+<img src="assets/image.png" alt="drawing" width="600"/>
+</center>
 ## Table of Contents
 
 - [Data Analysis \& Machine Learning Project](#data-analysis--machine-learning-project)
@@ -22,20 +24,20 @@ This project focuses on cleaning, exploring, and modeling a dataset to extract i
 2. ***Install the required dependencies:***
 
    ```bash
-   git clone https://github.com/user_name/repo_name.git
+   pip install -r requirements.txt
    ```
 ## Usage
-1. ***Data Cleaning:***
+1. ***Exploratory Data Analysis (EDA):***
 
-Open and run the *data_cleaning.ipynb* notebook to clean the raw data.
+Open and run the *EDA.ipynb* notebook to explore the dataset.
 
-2. ***Exploratory Data Analysis (EDA):***
+2. ***Data Cleaning:***
 
-Open and run the *EDA.ipynb* notebook to explore the cleaned data and gain insights.
+Open and run the *data_cleaning.ipynb* notebook to clean the dataset and make a training set.
 
 3. ***Model Training:***
 
-Open and run the *model_training.ipynb* notebook to train, evaluate, and select the best machine learning model.
+Open and run the *model_training.ipynb* notebook to train, evaluate, and export the 'model-name'
 
 ## License
 
